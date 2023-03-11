@@ -1,0 +1,3 @@
+sam-app/.aws-sam
+sam-app/weatherapp/node_modules
+weatherapp/node_modules
